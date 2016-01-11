@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TabhostTutorial</string>
+
+    <string name="pes1string">Fragment1</string>
+    <string name="pes2string">Fragment2</string>
+    <string name="pes3string">Fragment3</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
